@@ -9,3 +9,4 @@ REQUIREMENTS:
 4) Batman
 5) Matplotlib
 6) Lightkurve
+7) Matplotlib
